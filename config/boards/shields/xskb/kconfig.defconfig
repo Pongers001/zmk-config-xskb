@@ -1,0 +1,6 @@
+if SHIELD_XSKB
+
+config ZMK_KEYBOARD_NAME
+    default "xskb"
+
+endif
